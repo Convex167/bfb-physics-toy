@@ -532,7 +532,7 @@
 		}]
 	}]
 },
-"basketball": {
+"basket-ball": {
 	"bodies": [{
 		"density": 5,
 		"friction": 0.4,
