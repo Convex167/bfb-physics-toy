@@ -531,5 +531,16 @@
 			"origin": [0, 0]
 		}]
 	}]
+},
+"basketball": {
+	"bodies": [{
+		"density": 5,
+		"friction": 0.4,
+		"restitution": 0.9,
+		"shapes": [{
+			"radius": 1,
+			"origin": [0, 0]
+		}]
+	}]
 }
 }
